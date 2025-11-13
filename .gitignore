@@ -1,0 +1,15 @@
+# IDE and environment files
+.idea/
+__pycache__/
+*.pyc
+venv/
+Lib/
+Scripts/
+Include/
+
+# Large binary files, models, and datasets
+*.zip
+*.pth
+*.keras
+/teaLeafBD/
+/preprocessed_teaLeafBD/
